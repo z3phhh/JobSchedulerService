@@ -1,1 +1,1 @@
-# JobSchedulerService
+![JobSchedulerService](high-level-scheme.svg)
