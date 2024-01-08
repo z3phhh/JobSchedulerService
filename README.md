@@ -1,2 +1,2 @@
 # JobFlowEngine
-![JobSchedulerService](high-level-scheme.svg)
+![JobSchedulerService](high-level-scheme.png)
