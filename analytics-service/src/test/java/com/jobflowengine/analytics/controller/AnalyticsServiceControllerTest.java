@@ -11,8 +11,10 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 @WebMvcTest(AnalyticsServiceController.class)
 public class AnalyticsServiceControllerTest {
+
     @Autowired
     private MockMvc mockMvc;
+
     @Test
     public void getHelloWorld() throws Exception {
         mockMvc.perform(get("/api/hello-worl"))
