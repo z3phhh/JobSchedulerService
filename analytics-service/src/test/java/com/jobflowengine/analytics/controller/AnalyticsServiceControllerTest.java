@@ -17,7 +17,7 @@ public class AnalyticsServiceControllerTest {
 
     @Test
     public void getHelloWorld() throws Exception {
-        mockMvc.perform(get("/api/hello-worl "))
+        mockMvc.perform(get("/api/hello-worl1"))
                 .andExpect(status().isOk())
                 .andDo(print());
     }
