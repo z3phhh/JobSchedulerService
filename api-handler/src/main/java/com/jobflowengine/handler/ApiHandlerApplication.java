@@ -1,11 +1,11 @@
-package com.jobflowengine.analytics;
+package com.jobflowengine.handler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnalyticsService {
+public class ApiHandlerApplication {
     public static void main(String[] args) {
-        SpringApplication.run(AnalyticsService.class, args);
+        SpringApplication.run(ApiHandlerApplication.class, args);
     }
 }
