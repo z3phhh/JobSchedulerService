@@ -11,7 +11,7 @@
 
   <name>job-flow-engine</name>
   <modules>
-    <module>job-scheduler</module>
+    <module>api-handler</module>
     <module>vacancy-storage</module>
     <module>user-notification</module>
     <module>analytics-service</module>
