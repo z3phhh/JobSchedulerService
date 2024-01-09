@@ -15,7 +15,6 @@
     <module>vacancy-storage</module>
     <module>user-notification</module>
     <module>analytics-service</module>
-    <module>eureka-server</module>
     <module>rest-api</module>
   </modules>
 
